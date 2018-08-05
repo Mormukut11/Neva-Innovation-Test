@@ -14,6 +14,8 @@ You can change the size of cropped images according to your requirement.
 
 I have used R and RStudio to design multilayer neural network to identify the type of iris plant from iris dataset.
 
+Using keras to design the model on top of tensorflow.
+
 Load the data in RStudio.
 
 Perform EDA on iris data.
